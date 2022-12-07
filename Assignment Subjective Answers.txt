@@ -1,0 +1,17 @@
+1. Which are the top three variabls in your model which contribute most towards the probability of a lead getting recovered?
+
+> The three main variables in my model which are valuable for getting my leads converted are:
+. interested in finance, marketing and hr 
+. those who are spending mopre time on website
+. leads who has statble financial background
+
+2. What are the top 3 categorical/dummy variables in the model which should be focused the most on in order to increase the probability of lead conversion?
+
+>> The top threee categorical variables are
+a. Those who are trying to specalized course are more likely to be converted.
+b. Those who are working professional has high chance to be converted , and
+c. Those who are spending time on website are more likely to be converted.
+
+3. At first, we need to target those who has a stable income source or who simply want to switch their profession. We need to sort out those who has spent more time X Education's website. After sorting out, we need to tell them about the course fee and then the scholarship that can be provied right now. From this , it is possible to convert as many of them as possible.
+
+4. This time the focus need to be on those who have both stable income and are willing to switch there profession.
